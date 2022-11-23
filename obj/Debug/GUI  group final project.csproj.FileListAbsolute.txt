@@ -1,0 +1,52 @@
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.exe.config
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.exe
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csprojAssemblyReference.cache
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Properties.Resources.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csproj.GenerateResource.cache
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csproj.CoreCompileInputs.cache
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.exe
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Bill_information.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_info_delete.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_info_update.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_information.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_registration.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Home.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Login.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Menu.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_Info_delete.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_info_update.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_information.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_registration.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patients.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Reception.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Room.resources
+C:\Users\Apsara Madhuwanthi\source\repos\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Staff.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.exe.config
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.exe
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\bin\Debug\GUI  group final project.pdb
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csprojAssemblyReference.cache
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Bill_information.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_info_delete.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_info_update.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_information.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor_registration.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Doctor.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Home.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Login.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Menu.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_Info_delete.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_info_update.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_information.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patient_registration.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Patients.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Properties.Resources.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Reception.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Room.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI__group_final_project.Staff.resources
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csproj.GenerateResource.cache
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.csproj.CoreCompileInputs.cache
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.exe
+E:\NIBM slid\1st Year 2nd semester 1st HLF\GUI\c#\c# project\GUI  group final project\GUI  group final project\obj\Debug\GUI  group final project.pdb
